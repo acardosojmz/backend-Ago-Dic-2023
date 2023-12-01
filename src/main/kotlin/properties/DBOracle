@@ -1,0 +1,5 @@
+host 127.0.0.1
+port 1521
+service ORCLCDB
+user abilene
+password t0ps3cr3t
